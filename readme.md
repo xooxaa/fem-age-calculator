@@ -38,33 +38,33 @@ For detailed designs and layout, refer to the **Frontend Mentor** challenge [des
 
 Ensure you have the following installed:
 
-- **Node.js** (version 14 or above)
-- **Angular CLI** (version 13 or above)
+- **Node.js** (version 20 or above)
+- **Angular CLI** (version 18 or above)
 
 ### Setup Instructions
 
 1. **Clone the repository**:
 
-   ```bash
-   git clone https://github.com/yourusername/age-calculator-app.git
-   ```
+```bash
+git clone https://github.com/yourusername/age-calculator-app.git
+```
 
 2. **Navigate to the project directory:**
 
 ```bash
-   cd age-calculator-app
+cd age-calculator-app
 ```
 
 3. **Install dependencies:**
 
 ```bash
-   npm install
+npm install
 ```
 
 4. **Run the application locally:**
 
 ```bash
-   ng serve
+ng serve
 ```
 
 5. Open the application in your browser at [http://localhost:4200](http://localhost:4200).
@@ -92,4 +92,4 @@ Some potential improvements could include:
 
 ## License
 
-This project is licensed under the [MIT License](MIT License).
+This project is licensed under the [MIT License](https://opensource.org/license/mit).
