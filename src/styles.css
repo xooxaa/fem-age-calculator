@@ -24,7 +24,6 @@
   --off-white: #f0f0f0;
   --light-grey: #dbdbdb;
   --smokey-grey: #716f6f;
-  --off-black: #141414;
 
   --font: "Poppins", sans-serif;
 }
@@ -47,7 +46,7 @@ body {
   justify-content: center;
   align-items: center;
   background-color: var(--off-white);
-  padding: 1rem;
+  padding: 2rem;
 }
 
 input {
